@@ -1,7 +1,6 @@
 # Random-Password-Generator
 Third Challenge: Introducing JavaScript
 
-
 # 03 JavaScript: Password Generator
 
 ## Your Task
@@ -69,3 +68,4 @@ This Challenge is graded based on the following criteria:
 * Application loads with no errors.
 
 * Application GitHub URL submitted.
+
