@@ -8,13 +8,13 @@ var upperCaseCharacters = document.querySelector ("#uppercase");
 var numberCharacters = document.querySelector ("#numbercase");
 var specialCharacters = document.querySelector ("#special");
 
-// The password characters set to be used
+// The password characters values
 var lowerCaseCharacters = 'abcdefghijklmnopqrstuvwxyz';
 var upperCaseCharacters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
 var numberCharacters = '0123456789';
 var specialCharacters = '!"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~';
 
-// Generate Random and Strong Password from 8 to 128 characters
+// Generate random password from 8 to 128 characters
 function generatePassword() {
     passwordLength = prompt ("Please enter you password length between 8 to 128 characters.");
     includeLowerCaseCharacters = confirm("Would you like to include lowercase characters?");
@@ -37,6 +37,7 @@ function generatePassword() {
   if (includeSpecialCharacters) charSet += specialCharacters;
     
   let password = "";
+  // Create for loop to choose password characters
   for (let i = 0; i < passwordLength ; i ++){
   password += charSet.charAt(Math.floor(Math.random()* charSet.length))
   }

@@ -1,48 +1,52 @@
-# Random-Password-Generator
-Third Challenge: Introducing JavaScript
-
-# Strong Password Generator
+# Random Password Generator
 
 ## Description
-// TWEAK USER STORY AND ACCEPTANCE CRITERIA
-// CHAT GPT???
+This application was created to generate not only a random password but a strong yet secured password for users who will stumble upon this page. The user has its own control in regards of choosing the right password as their will be a clickable prompts on how many characters you want whether with combination of upper and lowercase or with numeric or special characters. 
 
+This password generator application is plain and simple design as this is a JavaScript focused challenge; HTML and CSS codes are already provided. And lastly, this is extremely straightforward to use so please, see the usage and screenshots below for the step by step instructions.
 
-## Installation and Usage
-//   
-    1. Go to https://www.github.com and clone your repo git@github.com:github_username/repo-name.git to your computer.
+## Installation
+- Clone the repository on your local machine
+- Open VSCode to add JavaScript Code
+- For alternative, open Chrome DevTools by pressing the shortcuts:
+    - For Windows and Linux: Ctrl + Shift + J
+    - For MacOS: Command + Option + J
 
-    2. Open the index.html and style.css via VS Code and create your desired webpage for your portfolio. Remember, every tags you add in html, make sure to add the elements and selectors after to prevent confusion when writing code.
-    
-    3. Deploy the project to https://www.github.com by going to the Settings > Code and automation > Pages > Build and deployment > Source. 
-
-    //ADD MORE HERE ABOUT HOW TO USE IT - instructions????
 
 ## Live Site 
-// ADD HERE THE LIVE WEBSITE
+http://mcramileux.github.io ADD THE LINK HER WHEN DEPLOYMENT!!!
 
 ## Technologies
 - VS Code
 - HTML
 - CSS
-- JavaScript // ADD MORE HERE
+- Chrome DevTools - checking the console and sources for possible error occurred.
+- JavaScript
+    - Single Line Comments - to add text or message so other user or developers will know what you mean.
+    - JavaScript Operators (Assignement and Arithmetic)
+    - Data and Primitive Types
+    - Function, Method
+    - DOM Manipulation
+
 
 ## Screenshots
 // DO NOT FORGET THIS PART!!!
 
 ## Credits
-- Jacob Carver - tutor
-- askBCS Learning Assistant
+- Jacob Carver - my weekly tutor who is patiently guiding me throughout this coding bootcamp.
+- askBCS Learning Assistants - who helped me answer my questions during my all-nighter.
 
 ## Licence
 - This project is [MIT](https://choosealicense.com/licenses/mit/) licence.
 
 ## References
-// LOTS OF YOUTUBE VIDEOS - SUPERSIMPLEDEV, PROGRAMMING WITH MOSH, ETC.
-// CHATGPT TO UNDERSTAND JAVASCRIPT TERMS
-// W3S
+- TechnicalCafe's [Youtube] (https://www.youtube.com/watch?app=desktop&v=9sT03jEwcaw) on Random Password Generator Tutorial (HTML, CSS & JavaScript)
+- Tyler Potts' [Youtube](https://www.youtube.com/watch?v=XH7CzSZ-9gY/) on how to make a Passoword Generatpr in HTML, CSS & JavaScript
+- Asking [chatGPT] (https://chat-gpt.org/chat) to give me an alternative explanation in understanding JavaScript terminology.
+- [W3S] (https://www.w3schools.com/js/) JavaScript Tutorial
 
-
+## Author
+- &copy; 2023 mcramileux (mostly the JavaScript section as the html, css and javascript starter code was already given)
 
 
 
