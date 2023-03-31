@@ -12,9 +12,17 @@ This password generator application is plain and simple design as this is a Java
     - For Windows and Linux: Ctrl + Shift + J
     - For MacOS: Command + Option + J
 
+## Usage and Screenshots (PUT PHOTOS HERE. DO NOT FORGET!)
+- Open web browser and click this link (PUT THE LINK FOR THE THIRD CHALLENGE!!!)
+- First question will be, how long would you like your password? Place numbers from 8 to 128.
+- The remaining questions will be either "OK" or "Cancel" answers only:
+    - Would you like to include lowercase characters?
+    - Would you like to include uppercase characters?
+    - Would you like to include number characters?
+    - Would you like to include special characters?
 
 ## Live Site 
-http://mcramileux.github.io ADD THE LINK HER WHEN DEPLOYMENT!!!
+http://mcramileux.github.io ADD THE LINK HERE WHEN IT'S DONE!!!
 
 ## Technologies
 - VS Code
@@ -28,10 +36,6 @@ http://mcramileux.github.io ADD THE LINK HER WHEN DEPLOYMENT!!!
     - Function, Method
     - DOM Manipulation
 
-
-## Screenshots
-// DO NOT FORGET THIS PART!!!
-
 ## Credits
 - Jacob Carver - my weekly tutor who is patiently guiding me throughout this coding bootcamp.
 - askBCS Learning Assistants - who helped me answer my questions during my all-nighter.
@@ -40,10 +44,10 @@ http://mcramileux.github.io ADD THE LINK HER WHEN DEPLOYMENT!!!
 - This project is [MIT](https://choosealicense.com/licenses/mit/) licence.
 
 ## References
-- TechnicalCafe's [Youtube] (https://www.youtube.com/watch?app=desktop&v=9sT03jEwcaw) on Random Password Generator Tutorial (HTML, CSS & JavaScript)
+- TechnicalCafe's [Youtube](https://www.youtube.com/watch?app=desktop&v=9sT03jEwcaw) on Random Password Generator Tutorial (HTML, CSS & JavaScript)
 - Tyler Potts' [Youtube](https://www.youtube.com/watch?v=XH7CzSZ-9gY/) on how to make a Passoword Generatpr in HTML, CSS & JavaScript
-- Asking [chatGPT] (https://chat-gpt.org/chat) to give me an alternative explanation in understanding JavaScript terminology.
-- [W3S] (https://www.w3schools.com/js/) JavaScript Tutorial
+- Asking [chatGPT](https://chat-gpt.org/chat) to give me an alternative explanation in understanding JavaScript terminology.
+- [W3S](https://www.w3schools.com/js/) JavaScript Tutorial
 
 ## Author
 - &copy; 2023 mcramileux (mostly the JavaScript section as the html, css and javascript starter code was already given)
