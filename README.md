@@ -12,9 +12,9 @@ This password generator application is plain and simple design as this is a Java
     - For Windows and Linux: Ctrl + Shift + J
     - For MacOS: Command + Option + J
 
-## Usage and Screenshots (PUT PHOTOS HERE. DO NOT FORGET!)
-- Open web browser and click this link (PUT THE LINK FOR THE THIRD CHALLENGE!!!)
-- First question will be, how long would you like your password? Place numbers from 8 to 128.
+## Usage and Screenshots
+- Open web browser and click this [link](https://mcramileux.github.io/Random-Password-Generator/).
+- First question will be, how long would you like your password? Place a number from 8 to 128.
 - The remaining questions will be either "Cancel" or "OK" answers only:
     - Would you like to include lowercase characters?
     - Would you like to include uppercase characters?
@@ -46,6 +46,7 @@ Would you like to include special characters?
 ![screenshot008](https://user-images.githubusercontent.com/122607160/229120863-553294db-1605-4e07-84ef-2d6e6e4fd55c.png)
 
 The generated password with all characters selected. 
+
 ![screenshot009](https://user-images.githubusercontent.com/122607160/229120877-db8991dc-1580-4614-8333-d275d6fa51b1.png)
 
 - Web browser or desktop version:
@@ -57,7 +58,7 @@ The generated password with all characters selected.
 ![screenshot002](https://user-images.githubusercontent.com/122607160/229120900-b8b4e5c6-36fd-4ec0-834d-b91ec1798798.png)
 
 ## Live Site 
-http://mcramileux.github.io ADD THE LINK HERE WHEN IT'S DONE!!!
+For finish product, go to this link :https://mcramileux.github.io/Random-Password-Generator/.
 
 ## Technologies
 - VS Code
@@ -83,6 +84,10 @@ http://mcramileux.github.io ADD THE LINK HERE WHEN IT'S DONE!!!
 - Tyler Potts' [Youtube](https://www.youtube.com/watch?v=XH7CzSZ-9gY/) on how to make a Passoword Generatpr in HTML, CSS & JavaScript
 - Asking [chatGPT](https://chat-gpt.org/chat) to give me an alternative explanation in understanding JavaScript terminology.
 - [W3S](https://www.w3schools.com/js/) JavaScript Tutorial
+
+## Acknowledgements
+- Saturday Study Group - for sharing their insights, help and any alternatives that occurred during the zoom meeting. Seeing each other's codes helped me see different techniques and preferences.
+
 
 ## Author
 - &copy; 2023 mcramileux (HTML, CSS and JavaScript starter code was already given)
