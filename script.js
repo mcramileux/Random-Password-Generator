@@ -1,4 +1,5 @@
 // Assignment Code
+// Assign the generate button element to the generateBtn variable
 var generateBtn = document.querySelector("#generate");
 
 //Set a password length and complexity
@@ -9,11 +10,13 @@ var numberCharacters = document.querySelector ("#numbercase");
 var specialCharacters = document.querySelector ("#special");
 
 // The password characters values
+// Set the variables to hold the values of the password characters
 var lowerCaseCharacters = 'abcdefghijklmnopqrstuvwxyz';
 var upperCaseCharacters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
 var numberCharacters = '0123456789';
 var specialCharacters = '!"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~';
 
+// Function to generate a random passowrd based on the user input
 // Generate random password from 8 to 128 characters
 function generatePassword() {
     passwordLength = prompt ("Please enter you password length between 8 to 128 characters.");
@@ -23,6 +26,7 @@ function generatePassword() {
     includeSpecialCharacters = confirm ("Would you like to include special characters?");
     console.log(passwordLength);
   
+// Validate the password length input
     if (passwordLength < 8 || passwordLength > 128 || passwordLength === null) {
       confirm ("Please try again. The password must have at least 8 characters and not more than 128 characters");
     }
@@ -41,7 +45,7 @@ function generatePassword() {
   for (let i = 0; i < passwordLength ; i ++){
   password += charSet.charAt(Math.floor(Math.random()* charSet.length))
   }
-  return password
+  return password;
 }
 // Write password to the #password input
 function writePassword() {
